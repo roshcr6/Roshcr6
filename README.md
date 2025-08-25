@@ -61,8 +61,8 @@ I believe in continuous learning and enjoy working on projects that challenge me
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](#)  
-- [Twitter](#)  
-- [Portfolio](#)  
+- [LinkedIn](https://www.linkedin.com/in/roshith-robert)  
+- [Email](#)  
+- [Portfolio](roshcr6.github.io)  
 
 ⚡ *Aspiring software developer with a strong foundation in backend systems and AI, and a creative edge through game development.*  
