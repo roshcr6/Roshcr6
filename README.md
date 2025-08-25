@@ -1,6 +1,20 @@
 # Hi, I'm Roshith Robert! 👋  
 
 💻 **Aspiring Software Developer | 🎮 Game Development Enthusiast | 🤖 AI & Backend Learner**  
+<p align="center">
+  <a href="https://roshcr6.github.io"><b>🌐 Visit My Portfolio</b></a>
+</p>
+<details>
+  <p align="center">"Power is not given… it is taken." ⚔️</p>
+</details>
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+
+![Snake animation](https://raw.githubusercontent.com/roshcr6/roshcr6/output/github-contribution-grid-snake.svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=roshcr6&color=red&style=for-the-badge&label=Profile+Hits)
+
 
 I am passionate about designing and developing **scalable software systems** and exploring how **AI and Deep Learning** can solve real-world problems. I also enjoy experimenting with **game development**, where I blend psychology, storytelling, and mechanics to create engaging user experiences.  
 
@@ -9,6 +23,9 @@ I believe in continuous learning and enjoy working on projects that challenge me
 ---
 
 ## 🔧 Skills & Technologies  
+![Python](https://img.shields.io/badge/PYTHON-💀-blue?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-⚔️-red?style=for-the-badge)
+![Unity](https://img.shields.io/badge/UNITY-🔥-black?style=for-the-badge)
 
 ### 🖥️ Programming & Development  
 - **Languages:** Python, JavaScript, C#, C++  
@@ -33,7 +50,14 @@ I believe in continuous learning and enjoy working on projects that challenge me
 - **Interests:**  
   - Addictive minimalist mechanics  
   - Reverse psychology in gameplay  
-  - Story-driven game design  
+  - Story-driven game design
+    
+ ---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshcr6&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshcr6&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
 
 ---
 
@@ -49,14 +73,6 @@ I believe in continuous learning and enjoy working on projects that challenge me
 - 🎮 Exploring **game storytelling & mechanics** as a creative outlet  
 - 🎭 Studying **human psychology** (influence, decision-making, behavior prediction)  
 - ✨ Creating a personal portfolio to showcase projects in software & game development  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshcr6&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshcr6&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
 
 ---
 
