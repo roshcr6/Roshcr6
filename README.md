@@ -10,18 +10,13 @@
 <details>
   <p align="center">"Power is not given… it is taken." ⚔️</p>
 </details>
-
-<p align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/glow-divider.svg" width="760" alt="glow divider"/>
 </p>
 
 
-<p align="center">
   ![Visitor Count](https://komarev.com/ghpvc/?username=roshcr6&color=ff4dcc&style=for-the-badge&label=Profile+Hits)
-</p>
 
 
 I am passionate about designing and developing **scalable software systems** and exploring how **AI and Deep Learning** can solve real-world problems. I also enjoy experimenting with **game development**, where I blend psychology, storytelling, and mechanics to create engaging user experiences.  
