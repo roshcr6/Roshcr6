@@ -1,3 +1,8 @@
+<!-- Decorative Title Art (keeps original text intact) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/title-art.svg" width="900" alt="Roshith Robert"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=ff6ab3&center=true&width=760&lines=⚔️+Hi,+I'm+Roshith+Robert;🎮+Game+Dev+%7C+AI+%26+Backend;🌀+MindFlip:+Reverse+Dash" alt="Typing" />
 </p>
