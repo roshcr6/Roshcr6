@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=ff6ab3&center=true&width=760&lines=⚔️+Hi,+I'm+Roshith+Robert;🎮+Game+Dev+%7C+AI+%26+Backend;🌀+MindFlip:+Reverse+Dash" alt="Typing" />
+</p>
 # Hi, I'm Roshith Robert! 👋  
 
 💻 **Aspiring Software Developer | 🎮 Game Development Enthusiast | 🤖 AI & Backend Learner**  
@@ -10,6 +13,10 @@
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/glow-divider.svg" width="760" alt="glow divider"/>
+</p>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=roshcr6&color=red&style=for-the-badge&label=Profile+Hits)
 
@@ -18,7 +25,9 @@ I am passionate about designing and developing **scalable software systems** and
 
 I believe in continuous learning and enjoy working on projects that challenge me to grow as a developer. My current journey is focused on mastering **backend development, deep learning models, and cloud deployment practices**, while also nurturing my interest in **indie-style game design**.  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/divider-slashed.svg" width="900" alt="slash divider"/>
+</p>
 
 ## 🔧 Skills & Technologies  
 ![Python](https://img.shields.io/badge/PYTHON-💀-blue?style=for-the-badge)
@@ -50,14 +59,20 @@ I believe in continuous learning and enjoy working on projects that challenge me
   - Reverse psychology in gameplay  
   - Story-driven game design
     
- ---
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/divider-slashed.svg" width="900" alt="slash divider"/>
+</p>
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshcr6&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshcr6&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/divider-slashed.svg" width="900" alt="slash divider"/>
+</p>
+
 
 ## 📈 Current Focus  
 - Building **scalable backend applications** using modern frameworks  
@@ -65,14 +80,20 @@ I believe in continuous learning and enjoy working on projects that challenge me
 - Exploring **DevOps & Cloud Computing** for seamless deployments  
 - Developing *MindFlip: Reverse Dash* 🌀 – an offline, reverse-psychology based mobile game  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/divider-slashed.svg" width="900" alt="slash divider"/>
+</p>
+
 
 ## 🌍 Beyond Coding  
 - 🎮 Exploring **game storytelling & mechanics** as a creative outlet  
 - 🎭 Studying **human psychology** (influence, decision-making, behavior prediction)  
 - ✨ Creating a personal portfolio to showcase projects in software & game development  
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/divider-slashed.svg" width="900" alt="slash divider"/>
+</p>
+
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/roshith-robert)  
