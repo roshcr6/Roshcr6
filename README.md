@@ -5,7 +5,7 @@
   <a href="https://roshcr6.github.io"><b>🌐 Visit My Portfolio</b></a>
 </p>
 <details>
-  <p align="center">"Power is not given… it is taken." ⚔️</p>
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/Quote2.svg" width="900" alt="Not Today"/>
 </details>
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/Quote.svg" width="900" alt="Not Today"/>
 
