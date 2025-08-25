@@ -16,7 +16,9 @@
 <details>
   <p align="center">"Power is not given… it is taken." ⚔️</p>
 </details>
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/Quotes.svg" width="760" alt="glow divider"/>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/glow-divider.svg" width="760" alt="glow divider"/>
 </p>
