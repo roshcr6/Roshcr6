@@ -11,8 +11,6 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
-![Snake animation](https://raw.githubusercontent.com/roshcr6/roshcr6/output/github-contribution-grid-snake.svg)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=roshcr6&color=red&style=for-the-badge&label=Profile+Hits)
 
 
