@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Roshith Robert">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff6ab3"/>
+      <stop offset="1" stop-color="#7be2ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 700 34px "Segoe UI", Roboto, Arial, sans-serif; letter-spacing: 1px; fill: #eaf3ff; }
+      .subtitle { font: 600 14px "Segoe UI", Roboto, Arial, sans-serif; fill: #cddbf1; opacity: 0.9;}
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#080912" rx="6"/>
+  <g transform="translate(20,20)">
+    <text x="0" y="40" class="title" filter="url(#glow)">Roshith Robert</text>
+    <text x="0" y="68" class="subtitle">Aspiring Software Developer • Game Dev Enthusiast • AI & Backend Learner</text>
+    <rect x="420" y="10" width="440" height="80" rx="8" fill="url(#g1)" opacity="0.06"/>
+  </g>
+</svg>
