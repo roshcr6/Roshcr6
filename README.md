@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=ff6ab3&center=true&width=760&lines=⚔️+Hi,+I'm+Roshith+Robert;🎮+Game+Dev+%7C+AI+%26+Backend;🌀+MindFlip:+Reverse+Dash" alt="Typing" />
 </p>
+
 # Hi, I'm Roshith Robert! 👋  
 
 💻 **Aspiring Software Developer | 🎮 Game Development Enthusiast | 🤖 AI & Backend Learner**  
@@ -77,6 +78,10 @@ I believe in continuous learning and enjoy working on projects that challenge me
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/divider-slashed.svg" width="900" alt="slash divider"/>
 </p>
 
+<p align="center">
+  <!-- snake placeholder (workflow will replace with real snake) -->
+  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/snake-placeholder.svg" width="760" alt="contribution snake"/>
+</p>
 
 ## 📈 Current Focus  
 - Building **scalable backend applications** using modern frameworks  
