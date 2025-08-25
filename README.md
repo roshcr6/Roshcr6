@@ -1,28 +1,68 @@
-# Hi, I'm Roshith Robert! 👋
+# Hi, I'm Roshith Robert! 👋  
 
-Welcome to my GitHub profile!
+💻 **Aspiring Software Developer | 🎮 Game Development Enthusiast | 🤖 AI & Backend Learner**  
 
-I am currently diving deep into **Deep Learning** and **Backend Development**. I am passionate about building scalable systems and working on AI-powered applications. Below are some of the technologies I'm working with:
+I am passionate about designing and developing **scalable software systems** and exploring how **AI and Deep Learning** can solve real-world problems. I also enjoy experimenting with **game development**, where I blend psychology, storytelling, and mechanics to create engaging user experiences.  
 
-## 🔧 Technologies & Tools
-- **Deep Learning:** TensorFlow, Keras, PyTorch, Scikit-Learn
-- **Backend Development:** Node.js, Express.js, Django, Flask
-- **Databases:** PostgreSQL, MongoDB
-- **Others:** Docker, Git, RESTful APIs
-
-## 📈 Current Focus
-- Exploring and implementing **Deep Learning** models to solve real-world problems.
-- Building scalable **backend applications** with modern frameworks.
-- Learning about **cloud computing** and **DevOps** practices to streamline deployments.
-
-Feel free to check out my repositories below, and don't hesitate to reach out if you'd like to collaborate or have any questions!
+I believe in continuous learning and enjoy working on projects that challenge me to grow as a developer. My current journey is focused on mastering **backend development, deep learning models, and cloud deployment practices**, while also nurturing my interest in **indie-style game design**.  
 
 ---
 
-Connect with me on:
-- [LinkedIn]()
-- [Twitter]()
-- [Portfolio]()
+## 🔧 Skills & Technologies  
 
-Thanks for visiting! 😊
+### 🖥️ Programming & Development  
+- **Languages:** Python, JavaScript, C#, C++  
+- **Backend Frameworks:** Node.js, Express.js, Django, Flask  
+- **Frontend (Basics):** React, HTML, CSS, Tailwind  
 
+### 📊 Databases & Cloud  
+- **Databases:** PostgreSQL, MongoDB  
+- **Others:** Docker, RESTful APIs, Git/GitHub  
+- **Cloud & DevOps (Learning):** AWS, CI/CD, Containerization  
+
+### 🤖 Artificial Intelligence & Machine Learning  
+- **Libraries:** TensorFlow, PyTorch, Scikit-Learn, Keras  
+- **Focus Areas:**  
+  - Deep Learning (Computer Vision, NLP basics)  
+  - AI-driven behavior models  
+  - Applying ML for practical use-cases  
+
+### 🎮 Game Development (Passion Projects)  
+- **Engines:** Unity (2D/3D)  
+- **Skills:** C# scripting, Animation, Physics, Shader basics  
+- **Interests:**  
+  - Addictive minimalist mechanics  
+  - Reverse psychology in gameplay  
+  - Story-driven game design  
+
+---
+
+## 📈 Current Focus  
+- Building **scalable backend applications** using modern frameworks  
+- Training and deploying **AI/Deep Learning models** for real-world tasks  
+- Exploring **DevOps & Cloud Computing** for seamless deployments  
+- Developing *MindFlip: Reverse Dash* 🌀 – an offline, reverse-psychology based mobile game  
+
+---
+
+## 🌍 Beyond Coding  
+- 🎮 Exploring **game storytelling & mechanics** as a creative outlet  
+- 🎭 Studying **human psychology** (influence, decision-making, behavior prediction)  
+- ✨ Creating a personal portfolio to showcase projects in software & game development  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
+
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](#)  
+- [Twitter](#)  
+- [Portfolio](#)  
+
+⚡ *Aspiring software developer with a strong foundation in backend systems and AI, and a creative edge through game development.*  
