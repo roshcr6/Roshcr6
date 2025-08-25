@@ -17,7 +17,7 @@
   <p align="center">"Power is not given… it is taken." ⚔️</p>
 </details>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/Quotes.svg" width="760" alt="glow divider"/>
+  <img src="[https://raw.githubusercontent.com/roshcr6/roshcr6/main/Quotes.svg](https://github.com/roshcr6/Roshcr6/blob/main/Quote.svg)"  width="900" alt="Not Today"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/glow-divider.svg" width="760" alt="glow divider"/>
@@ -85,10 +85,6 @@ I believe in continuous learning and enjoy working on projects that challenge me
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/divider-slashed.svg" width="900" alt="slash divider"/>
 </p>
 
-<p align="center">
-  <!-- snake placeholder (workflow will replace with real snake) -->
-  <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/snake-placeholder.svg" width="760" alt="contribution snake"/>
-</p>
 
 ## 📈 Current Focus  
 - Building **scalable backend applications** using modern frameworks  
