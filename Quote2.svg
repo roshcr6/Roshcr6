@@ -9,11 +9,7 @@
   </defs>
   
   <rect width="100%" height="100%" fill="#1a1a1a" rx="8"/>
-  
-  <!-- Fire effect -->
-  <path d="M50,60 Q40,40 50,20 Q60,40 50,60 Z" fill="url(#fireGradient)" opacity="0.6"/>
-  <path d="M70,70 Q60,50 70,30 Q80,50 70,70 Z" fill="url(#fireGradient)" opacity="0.6"/>
-  <path d="M90,60 Q80,40 90,20 Q100,40 90,60 Z" fill="url(#fireGradient)" opacity="0.6"/>
+
   
   <text x="20" y="36" font-family="Impact, Arial" font-size="16" fill="#ffcc00">
     "Power Is Not Given..."
