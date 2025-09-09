@@ -1,6 +1,6 @@
 # Hi Guys, I'm Roshith Robert! 👋  
 
-💻 **Aspiring Software Developer | 🎮 Game Development Enthusiast | 🤖 AI & Backend Learner**  
+💻 **Aspiring Software Developer | 🎮 Game Developmenter | 🤖 Vibe Coder**  
 <p align="center">
   <a href="https://roshcr6.github.io"><b>🌐 Visit My Portfolio</b></a>
 </p>
