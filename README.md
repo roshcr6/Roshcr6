@@ -1,10 +1,10 @@
+# Hi Guys, I'm Roshith Robert! 👋
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/title-art.svg" width="600" alt="Roshith Robert - Game Developer"/>
 </p>
 
-<h1 align="center">Hi, I'm Roshith Robert! 👾</h1>
 <p align="center">
-  <b>Game Developer | AI Enthusiast | Backend Engineer | UI/UX Explorer</b><br>
   <a href="https://roshcr6.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=github"/></a>
   <img src="https://komarev.com/ghpvc/?username=roshcr6&color=ff4dcc&style=for-the-badge&label=Profile+Hits"/>
 </p>
@@ -16,14 +16,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/roshcr6/roshcr6/main/Quote.svg" width="700" alt="Not Today"/>
 </p>
-
-<details>
-<summary>About Me</summary>
-
-I am passionate about designing and developing <b>scalable software systems</b> and exploring how <b>AI and Deep Learning</b> can solve real-world problems. I love experimenting with <b>game development</b>, blending psychology, storytelling, and mechanics to create engaging user experiences.
-
-Currently mastering backend development, deep learning models, and cloud deployment, while nurturing my indie game design interests.
-</details>
 
 ---
 
@@ -59,6 +51,26 @@ Currently mastering backend development, deep learning models, and cloud deploym
 
 ---
 
+## ✨ UI/UX Inspiration & Animated Resources
+
+<p align="center">
+  <img src="https://lottiefiles.com/animations/rocket-launch.json" width="60" alt="Lottie Rocket Animation"/>
+  <img src="https://gradienty.codes/animated-icons/gradienty-rocket.svg" width="60" alt="Gradienty Rocket"/>
+  <img src="https://react-icons.github.io/react-icons/icons?name=fa&icon=FaGamepad" width="60" alt="React Gamepad Icon"/>
+</p>
+
+> **Explore the best UI/UX resources for inspiration, icons, gradients, and animation:**
+
+- [Awwwards](https://www.awwwards.com/websites/ui/) | [CSS Design Awards](https://www.cssdesignawards.com/) | [Siteinspire](https://www.siteinspire.com/) | [Lapa Ninja](https://www.lapa.ninja/) | [Collect UI](https://collectui.com/) | [Dribbble](https://dribbble.com/) | [Behance](https://www.behance.net/) | [Mobbin](https://mobbin.com/) | [UI Movement](https://uimovement.com/) | [Unsection](https://unsection.com/)
+- [React Icons](https://react-icons.github.io/react-icons/) | [Animate UI](https://animate-ui.com/) | [Gradienty Animated Icons](https://gradienty.codes/animated-icons) | [LottieFiles](https://lottiefiles.com/) | [UI Design Daily](https://uidesigndaily.com/) | [Page Flows](https://pageflows.com/)
+- [Gradienty](https://gradienty.codes/) | [Color Hunt](https://colorhunt.co/) | [Coolors](https://coolors.co/)
+- [Anime.js](https://animejs.com/) | [LottieFiles](https://lottiefiles.com/) | [Gradienty CSS Animations](https://gradienty.codes/animations)
+- [Dark Design](https://www.dark.design/) | [UI Design Daily: Dark Theme Components](https://www.uidesigndaily.com/posts/sketch-dark-theme-components-day-963)
+- [UI Patterns](https://ui-patterns.com/) | [Mobbin Flows](https://mobbin.com/flows) | [Figma Community](https://www.figma.com/community)
+- [Lapa Ninja Freebies](https://www.lapa.ninja/freebies/) | [Figma Community](https://www.figma.com/community) | [CSS-Tricks](https://css-tricks.com/)
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshcr6&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -88,59 +100,3 @@ Currently mastering backend development, deep learning models, and cloud deploym
 - [Email](#)
 
 ⚡ <i>Aspiring software developer with a strong foundation in backend systems and AI, and a creative edge through game development.</i>
-
----
-
-# 🗂️ UI Reference Sources (2025)
-
-An extensive, categorized dictionary of the latest and most popular websites, tools, and resources for UI/UX engineers and designers. Use this as your go-to reference for inspiration, assets, and best practices.
-
----
-
-## UI/UX Inspiration & Showcases
-- [Awwwards](https://www.awwwards.com/websites/ui/) — Award-winning web design inspiration, trends, and portfolios
-- [CSS Design Awards](https://www.cssdesignawards.com/) — Daily, monthly, and yearly best web designs
-- [Siteinspire](https://www.siteinspire.com/) — Curated showcase of the web’s finest design and talent
-- [Lapa Ninja](https://www.lapa.ninja/) — Best landing page design inspiration, free templates, and design books
-- [Collect UI](https://collectui.com/) — Daily UI inspiration and challenge archive
-- [Dribbble](https://dribbble.com/) — UI/UX design inspiration, portfolios, and shots
-- [Behance](https://www.behance.net/) — UI/UX and creative portfolios
-- [Mobbin](https://mobbin.com/) — Massive library of real-world mobile & web app design patterns and flows
-- [UI Movement](https://uimovement.com/) — Curated collection of the best UI animations and interactions
-- [Unsection](https://unsection.com/) — Curated website section design library, SVGs, and hover effects
-
-## UI Elements, Icons, and Components
-- [React Icons](https://react-icons.github.io/react-icons/) — Huge icon library for React (FontAwesome, Material, etc.)
-- [Animate UI](https://animate-ui.com/) — Animated UI elements for modern web apps
-- [Gradienty Animated Icons](https://gradienty.codes/animated-icons) — Animated SVG icons
-- [LottieFiles](https://lottiefiles.com/) — Free and premium Lottie animations for web and mobile
-- [UI Design Daily](https://uidesigndaily.com/) — Free open-source UI resources and daily design files
-- [Page Flows](https://pageflows.com/) — Real-world user flow examples and screen recordings
-
-## Color, Gradients, and Visual Generators
-- [Gradienty](https://gradienty.codes/) — Gradients, color palettes, CSS animations, glassmorphism, and more
-- [Color Hunt](https://colorhunt.co/) — Curated color palettes for designers
-- [Coolors](https://coolors.co/) — Color palette generator and inspiration
-
-## Animation & Motion Design
-- [Anime.js](https://animejs.com/) — JavaScript animation engine for web UI
-- [LottieFiles](https://lottiefiles.com/) — Lightweight, customizable animations for web, apps, and presentations
-- [Gradienty CSS Animations](https://gradienty.codes/animations) — CSS animation generator
-
-## Dark UI & Theming
-- [Dark Design](https://www.dark.design/) — Handpicked dark-themed websites and modules
-- [UI Design Daily: Dark Theme Components](https://www.uidesigndaily.com/posts/sketch-dark-theme-components-day-963) — Free dark UI kits
-
-## Design Systems, Patterns, and Best Practices
-- [UI Patterns](https://ui-patterns.com/) — UI design patterns and best practices
-- [Mobbin Flows](https://mobbin.com/flows) — Explore entire user journeys and flows
-- [Figma Community](https://www.figma.com/community) — UI kits, icons, design systems, and plugins
-
-## Templates, Freebies, and Tools
-- [Lapa Ninja Freebies](https://www.lapa.ninja/freebies/) — Free UI kits and templates for Figma, Framer, and more
-- [Figma Community](https://www.figma.com/community) — Free and paid design resources
-- [CSS-Tricks](https://css-tricks.com/) — CSS techniques, UI tips, and front-end resources
-
----
-
-<i>Add more links as you discover new resources! This list is updated for 2025 and covers the most popular and useful sites for every UI/UX engineer.</i>
