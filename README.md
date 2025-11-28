@@ -4,13 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Roshith%20Robert&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Game%20Dev%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%8E%AE+Crafting+Games+%7C+%F0%9F%A4%96+Training+AI+%7C+%E2%98%81%EF%B8%8F+Cloud+Native" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Building+the+Future,+One+Line+at+a+Time;Crafting+Games+%7C+Training+AI+%7C+Cloud+Native" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Social Badges -->
 <a href="https://roshcr6.github.io">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/roshith-robert">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -36,49 +36,49 @@
 
 <br/>
 
-<!-- About Section with Gradient -->
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="28"/> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Butterfly.png" alt="Butterfly" width="120" />
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="Coding"/>
 
 ```javascript
 const roshith = {
     pronouns: "he" | "him",
-    location: "🌍 Earth",
+    location: "Earth",
     currentFocus: ["Backend Systems", "Deep Learning", "Game Dev"],
-    funFact: "I use reverse psychology in my games 🎭",
-    lifePhilosophy: "Code. Create. Conquer. Repeat. 🔁"
+    funFact: "I use reverse psychology in my games",
+    lifePhilosophy: "Code. Create. Conquer. Repeat."
 };
 ```
 
 <br/>
 
-- 🔭 Currently building **scalable backend systems** & **AI-powered solutions**
-- 🎮 Developing **MindFlip: Reverse Dash** — a mind-bending mobile game
-- 🌱 Learning **Cloud Architecture** & **MLOps**
-- ⚡ Fun fact: I blend **psychology** into game mechanics!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="16"/> Currently building **scalable backend systems** & **AI-powered solutions**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="16"/> Developing **MindFlip: Reverse Dash** — a mind-bending mobile game  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="16"/> Learning **Cloud Architecture** & **MLOps**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="16"/> Fun fact: I blend **psychology** into game mechanics!
 
-<br/>
+<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> &nbsp;Tech Arsenal
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28"/> Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp&theme=dark" />
 </p>
 
-### 🚀 Backend & Frameworks
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark" />
 </p>
 
-### 🤖 AI & Machine Learning
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="20"/> AI & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -86,23 +86,23 @@ const roshith = {
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-### 🎮 Game Development
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20"/> Game Development
 <p>
   <img src="https://skillicons.dev/icons?i=unity,blender&theme=dark" />
   <img src="https://img.shields.io/badge/C%23_Scripting-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql&theme=dark" />
 </p>
 
-### ☁️ Cloud & DevOps
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark" />
 </p>
 
-### 🎨 Frontend
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
 </p>
@@ -113,7 +113,7 @@ const roshith = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> &nbsp;GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/> GitHub Stats
 
 <div align="center">
   
@@ -135,16 +135,16 @@ const roshith = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> &nbsp;Current Focus
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/> Current Focus
 
 <div align="center">
 
-| 🎯 Focus Area | 📝 Description |
+| Focus Area | Description |
 |:------------:|:--------------|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20"/> **Backend** | Building scalable microservices & APIs |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20"/> **AI/ML** | Deep Learning models for real-world applications |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="20"/> **Game Dev** | *MindFlip: Reverse Dash* — psychology-based mobile game |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="20"/> **Cloud** | AWS, Docker, Kubernetes & CI/CD pipelines |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Backend** | Building scalable microservices & APIs |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20"/> **AI/ML** | Deep Learning models for real-world applications |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="20"/> **Game Dev** | *MindFlip: Reverse Dash* — psychology-based mobile game |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="20"/> **Cloud** | AWS, Docker, Kubernetes & CI/CD pipelines |
 
 </div>
 
@@ -152,24 +152,24 @@ const roshith = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="30" /> &nbsp;Beyond Code
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="28"/> Beyond Code
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60"/><br/>
 <b>Game Design</b><br/>
 <sub>Storytelling & Mechanics</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60"/><br/>
 <b>Psychology</b><br/>
 <sub>Human Behavior & Decision Making</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="60"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/><br/>
 <b>Creativity</b><br/>
 <sub>Problem Solving & Innovation</sub>
 </td>
@@ -182,7 +182,7 @@ const roshith = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox" width="30" /> &nbsp;Let's Connect!
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/> Let's Connect!
 
 <div align="center">
 
@@ -204,7 +204,7 @@ const roshith = {
 
 <br/><br/>
 
-### 💬 *"Code is poetry written for machines to execute and humans to admire."*
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="20"/> *"Code is poetry written for machines to execute and humans to admire."*
 
 <br/>
 
