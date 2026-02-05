@@ -181,11 +181,126 @@ e]2b8e5f docs: updated infrastructure runbooks
 ```
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
+│   "Code is poetry written for machines to execute            │
+│    and humans to admire."                                    │
+│                                                              │
 │   $ echo "Let's build something great together"              │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-[![Visitors](https://komarev.com/ghpvc/?username=roshcr6&color=0d1117&style=flat-square&label=profile+views)](https://github.com/roshcr6)
+<br/>
 
-</div>  
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-58A6FF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=0d1117)](https://www.buymeacoffee.com/roshcr6)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-58A6FF?style=for-the-badge&logo=ko-fi&logoColor=0d1117)](https://ko-fi.com/roshcr6)
+[![Sponsor](https://img.shields.io/badge/Sponsor-58A6FF?style=for-the-badge&logo=github-sponsors&logoColor=0d1117)](https://github.com/sponsors/roshcr6)
+
+<br/>
+
+[![Visitors](https://komarev.com/ghpvc/?username=roshcr6&color=58a6ff&style=flat-square&label=profile+views)](https://github.com/roshcr6)
+
+</div>
+
+---
+
+<details>
+<summary><b><code>> ./play-game.sh</code></b></summary>
+
+<br/>
+
+<div align="center">
+
+### 🎮 Terminal Adventure
+
+**Can you escape the server room?**
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   You are in a dark server room. The only light comes from      │
+│   blinking LEDs on the rack servers.                            │
+│                                                                 │
+│   > You see: [TERMINAL] [COFFEE_MACHINE] [EXIT_DOOR]            │
+│                                                                 │
+│   What do you do?                                               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+[![Use Terminal](https://img.shields.io/badge/USE-TERMINAL-58A6FF?style=for-the-badge&logo=gnometerminal&logoColor=white)](#-check-the-terminal)
+[![Get Coffee](https://img.shields.io/badge/GET-COFFEE-58A6FF?style=for-the-badge&logo=buymeacoffee&logoColor=white)](#-get-coffee)
+[![Try Door](https://img.shields.io/badge/TRY-EXIT_DOOR-58A6FF?style=for-the-badge&logo=doorbird&logoColor=white)](#-try-the-door)
+
+---
+
+#### 💻 Check the Terminal
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   $ cat /etc/passwd                                             │
+│   > Permission denied. Nice try, hacker.                        │
+│                                                                 │
+│   $ sudo rm -rf /                                               │
+│   > We don't do that here.                                      │
+│                                                                 │
+│   $ kubectl get pods                                            │
+│   > All pods running. Door unlocked! 🔓                         │
+│                                                                 │
+│   CONGRATULATIONS! You're a true DevOps engineer!               │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🏆 Achievement Unlocked: KUBECTL MASTER**
+
+---
+
+#### ☕ Get Coffee
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   $ brew install coffee                                         │
+│                                                                 │
+│   ==> Pouring coffee--v3.14.159...                              │
+│   ==> Summary: ☕ Ready to drink!                                │
+│                                                                 │
+│   Energy: [████████████████████] +100%                          │
+│   Focus:  [████████████████████] +100%                          │
+│                                                                 │
+│   You feel energized! Now back to work.                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🏆 Achievement Unlocked: CAFFEINATED DEVELOPER**
+
+---
+
+#### 🚪 Try the Door
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   $ exit                                                        │
+│                                                                 │
+│   ERROR: Door locked.                                           │
+│   HINT: Have you tried turning it off and on again?             │
+│                                                                 │
+│   $ ssh door@exit                                               │
+│   > Connection refused. Authentication required.                │
+│                                                                 │
+│   $ docker run --rm -it escape:latest                           │
+│   > Container exited with code 0. Door still locked.            │
+│                                                                 │
+│   Maybe try the terminal first? 🤔                              │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**💡 Hint: Real DevOps engineers know the magic command...**
+
+</div>
+
+</details>  
