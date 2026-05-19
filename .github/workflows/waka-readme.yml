@@ -2,11 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update-readme:
@@ -23,13 +20,3 @@ jobs:
           LANG_COUNT: 8
           SHOW_TIME: true
           SHOW_TOTAL: true
-          COMMIT_MESSAGE: "update waka coding stats"
-
-# SETUP (one-time):
-# 1. Sign up free at https://wakatime.com
-# 2. Install WakaTime plugin in VS Code / PyCharm / any IDE
-# 3. Copy your API key from https://wakatime.com/api-key
-# 4. In roshcr6/roshcr6 repo → Settings → Secrets → Actions, add:
-#      WAKATIME_API_KEY = <your wakatime key>
-#      GH_TOKEN        = <GitHub PAT with repo + user scope>
-# 5. Run this workflow once manually — then auto-runs daily
