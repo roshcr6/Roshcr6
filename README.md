@@ -196,7 +196,8 @@ mlops-pipeline-design             0/1     Learning    started
 ```
 ╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
-│   $ echo "let's build something that scales."                    │
+│   $ echo "Code is poetry written for machines to execute            │
+│    and humans to admire."                    │
 │                                                                  │
 ╰──────────────────────────────────────────────────────────────────╯
 ```
