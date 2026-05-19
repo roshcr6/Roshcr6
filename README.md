@@ -178,6 +178,35 @@ mlops-pipeline-design             0/1     Learning    started
 
 ---
 
+### `$ wakatime --weekly-report`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  CODING ACTIVITY  [ auto-updated daily ]                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+### `$ git log --graph --3d`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/roshcr6/roshcr6/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/roshcr6/roshcr6/blob/output/profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution calendar" src="https://github.com/roshcr6/roshcr6/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
+</div>
+
+---
+
 ### `$ cat /etc/philosophy`
 
 ```
