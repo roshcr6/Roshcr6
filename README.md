@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/roshith-robert)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=firefox&logoColor=000000)](https://roshcr6.github.io)
 [![Email](https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=000000)](mailto:roshithrobert6@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=roshcr6&color=ffffff&style=flat-square&label=views)](https://github.com/roshcr6)
+[![Visitors](https://komarev.com/ghpvc/?username=roshcr6&color=000000&style=flat-square&label=views)](https://github.com/roshcr6)
 
 </div>
 
