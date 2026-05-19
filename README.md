@@ -6,6 +6,14 @@
 ██║  ██║╚██████╔╝███████║██║  ██║██║   ██║   ██║  ██║
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
+```
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│   $ echo "Code is poetry written for machines to execute         │
+│    and humans to admire."                                        │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+```
 
 <div align="center">
 
@@ -193,14 +201,7 @@ mlops-pipeline-design             0/1     Learning    started
 
 <div align="center">
 
-```
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   $ echo "Code is poetry written for machines to execute            │
-│    and humans to admire."                    │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-```
+
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/roshcr6)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/roshcr6)
