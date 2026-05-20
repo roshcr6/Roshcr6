@@ -5,6 +5,13 @@
 ██╔══██╗██║   ██║╚════██║██╔══██║██║   ██║   ██╔══██║
 ██║  ██║╚██████╔╝███████║██║  ██║██║   ██║   ██║  ██║
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+██████╗  ██████╗ ██████╗ ███████╗██████╗ ████████╗
+██╔══██╗██╔═══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝
+██████╔╝██║   ██║██████╔╝█████╗  ██████╔╝   ██║
+██╔══██╗██║   ██║██╔══██╗██╔══╝  ██╔══██╗   ██║
+██║  ██║╚██████╔╝██████╔╝███████╗██║  ██║   ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝
 ```
 ```
 ╭──────────────────────────────────────────────────────────────────╮
@@ -168,11 +175,11 @@ mlops-pipeline-design             0/1     Learning    started
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=roshcr6&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=999999" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=roshcr6&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=roshcr6&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="49%"/>
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshcr6&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&height=250)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshcr6&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&height=250&radius=6)
 
 </div>
 
@@ -184,19 +191,10 @@ mlops-pipeline-design             0/1     Learning    started
 ╔══════════════════════════════════════════════════════════════════╗
 ║  CODING ACTIVITY  [ auto-updated daily ]                         ║
 ╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 May 2026 - To: 19 May 2026
-
-Total Time: 0 secs
-
-No activity tracked
 ```
-
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-║                                                                  ║
+```
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -207,9 +205,9 @@ No activity tracked
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/roshcr6/roshcr6/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/roshcr6/roshcr6/blob/output/profile-3d-contrib/profile-season-animate.svg" />
-  <img alt="3D contribution calendar" src="https://github.com/roshcr6/roshcr6/blob/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshcr6/roshcr6/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshcr6/roshcr6/output/profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/roshcr6/roshcr6/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
@@ -239,7 +237,13 @@ No activity tracked
 
 <div align="center">
 
-
+```
+╭──────────────────────────────────────────────────────────────────╮
+│                                                                  │
+│   $ echo "let's build something that scales."                    │
+│                                                                  │
+╰──────────────────────────────────────────────────────────────────╯
+```
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/roshcr6)
 [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/roshcr6)
